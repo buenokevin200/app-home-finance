@@ -5,8 +5,9 @@ Bienvenidos al desarrollo de la aplicación para casas Este desarrollo está bas
 1. Unete al Workspace en Trello allí verás el progreso y las actividades que se deben realizar.
 3. Instala VScode --> https://code.visualstudio.com/download
 4. Instala NodeJS:22.16.0 en adelante --> https://nodejs.org/en/download
-5. Revisa actividades asignadas en Github.
-6. Empieaza a programar.
+5. asegurate de seleccionar el branch/rama adecuada
+6. Revisa actividades asignadas en Github.
+7. Empieaza a programar.
 
 Se estará trabajando en el esté repositorio el módulo de finanzas y se crearan otros repos para los demás módulos (todos al final se fusionarán).
 
