@@ -1,6 +1,6 @@
 # app-home-finance
 
-Bienvenidos al desarrollo de la aplicación para mi casa. Este desarrollo está basado en 4 módulos Finanzas, Actividades, IOT e IA (Para más información ver Trello). Los pasos para iniciar con la colaboración de este proyecto son los siguientes:
+Bienvenidos al desarrollo de la aplicación para casas Este desarrollo está basado en 4 módulos Finanzas, Actividades, IOT e IA (Para más información ver Trello). Los pasos para iniciar con la colaboración de este proyecto son los siguientes:
 
 1. Unete al Workspace en Trello allí verás el progreso y las actividades que se deben realizar.
 3. Instala VScode --> https://code.visualstudio.com/download
